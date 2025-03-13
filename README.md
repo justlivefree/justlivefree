@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-SWE | Python 
+Backend Developer | Python & Django  <br>
 Curently learning Java
 
 <hr>
