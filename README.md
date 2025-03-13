@@ -1,9 +1,10 @@
-## Hi there 👋
+<!--## Hi there 👋
 
 Backend Developer | Python & Django  <br>
 Curently learning Java
 
 <hr>
+-->
 
 ♫ Mac DeMarco - Chamber Of Reflection ♫ <br>
 ──⚪️─────────────────────────────────── <br>
