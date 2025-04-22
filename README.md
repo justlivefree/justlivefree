@@ -10,7 +10,7 @@ ALIVE :
 <br>
 -->
 <p align="left">
-  <img src="pic.jpeg" align="right" width="100" />
+  <img src="anna.jpg" align="right" width="110" />
   ( > ͜ʖ <) ✌ <br>
 
   [![wakatime](https://wakatime.com/badge/user/61adc4fc-dd1b-43be-a6ef-482ed0fe8ec3.svg?style=social)](https://wakatime.com/@tohirdjons) <br>
