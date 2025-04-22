@@ -9,26 +9,17 @@ ALIVE :
 ﮩ٨ـﮩﮩ٨ﮩـ٨ـﮩﮩ٨ـ
 <br>
 -->
-<table width="100%">
-<tr>
-<td align="left">
+<p align="left">
+  <img src="pic.jpeg" align="right" width="100" />
+  ( > ͜ʖ <) ✌ <br>
 
-( > ͜ʖ <) ✌ <br>
+  [![wakatime](https://wakatime.com/badge/user/61adc4fc-dd1b-43be-a6ef-482ed0fe8ec3.svg?style=social)](https://wakatime.com/@tohirdjons) <br>
 
-[![wakatime](https://wakatime.com/badge/user/61adc4fc-dd1b-43be-a6ef-482ed0fe8ec3.svg?style=social)](https://wakatime.com/@tohirdjons) <br>
-
-♫ The Neighbourhood - Softcore ♫ <br>
-──⚪️─────────────────────────────────── <br>
-◄◄ ▐▐⠀►►            0:05 / 3:50 ───○ 🔊   ⚙️ <br>
-
-</td>
-<td align="right" width="120">
-
-<img src="pic.jpeg" width="100"/>
-
-</td>
-</tr>
-</table>
+  ♫ The Neighbourhood - Softcore ♫ <br>
+  ──⚪️─────────────────────────────────── <br>
+  ◄◄ ▐▐⠀►►            0:05 / 3:50 ───○ 🔊   ⚙️
+  
+</p>
 
 
 <!--
